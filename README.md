@@ -3,6 +3,7 @@
 Interactive data analysis dashboard exploring 10,000+ apps from the Google Play Store with live visualizations and machine learning insights.
 
 🔗 **[Live Dashboard](https://amanphadke.github.io/Data_Analysis_Projects/)**
+📷 **Screenshots of Graphs and Dashboard are in the Screenshots folder in this repo**
 
 ---
 
