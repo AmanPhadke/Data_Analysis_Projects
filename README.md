@@ -3,6 +3,7 @@
 Interactive data analysis dashboard exploring 10,000+ apps from the Google Play Store with live visualizations and machine learning insights.
 
 🔗 **[Live Dashboard](https://amanphadke.github.io/Data_Analysis_Projects/)**
+
 📷 **Screenshots of Graphs and Dashboard are in the Screenshots folder in this repo**
 
 ---
@@ -111,6 +112,7 @@ register_live_plot(
 
 Dataset: Google Play Store apps + user reviews  
 apps data file - [https://www.kaggle.com/code/bansodesandeep/eda-google-play-store-apps/input](https://www.kaggle.com/code/bansodesandeep/eda-google-play-store-apps/input?select=googleplaystore.csv)
+
 user_reviews file - [https://www.kaggle.com/code/bansodesandeep/eda-google-play-store-apps/input?select=googleplaystore_user_reviews.csv](https://www.kaggle.com/code/bansodesandeep/eda-google-play-store-apps/input?select=googleplaystore_user_reviews.csv)
 
 ---
