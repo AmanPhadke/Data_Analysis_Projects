@@ -39,7 +39,7 @@ pip install pandas numpy plotly scikit-learn nltk
 python -c "import nltk; nltk.download('vader_lexicon')"
 
 # Run notebook
-jupyter notebook Playstore_Data_Analysis_WEB_APP_FINAL.ipynb
+jupyter notebook Data_Analysis_Project.ipynb
 ```
 
 ---
